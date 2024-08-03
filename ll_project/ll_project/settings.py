@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     #MyApps
     'learning_logs',
     'accounts',
+    # Third party apps.
+    'django_bootstrap5',
 ]
 
 MIDDLEWARE = [
