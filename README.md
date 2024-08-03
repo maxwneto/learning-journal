@@ -46,4 +46,4 @@ This project marks the beginning of my journey into web development with Django,
 
 ### Contact
 
-For any inquiries or further information, please contact me at: [email@gmail.com](mailto:email@gmail.com).
+For any inquiries or further information, please contact me at: [maxwneto@gmail.com](mailto:maxwneto@gmail.com).
